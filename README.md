@@ -22,11 +22,9 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
 ### Steps
 
 1. **Boot into the Minimal NixOS Installer**
-
    Boot your machine using the minimal NixOS installer ISO. You should be greeted with a shell prompt.
 
 2. **Connect to the Internet**
-
    Ensure you have an active internet connection. You can use `nmtui` or `iwctl` for wireless connections.
 
    ```sh
@@ -35,9 +33,6 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
    iwctl```
    
 3. **Install Git**
-    
-     
-    
     Since the minimal installer might not have `git` pre-installed, you can install it using the following command:
     
     ```sh
@@ -45,9 +40,6 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
     ```
     
 4. **Clone the Repository**
-    
-     
-    
     Clone this repository using `git`:
     
     ```sh
@@ -56,9 +48,6 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
     ```
     
 5. **Apply the Configuration**
-    
-     
-    
     Apply the configuration using `nixos-rebuild`:
     
     ```sh
@@ -66,9 +55,6 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
     ```
     
 6. **Reboot**
-    
-     
-    
     Once the configuration is applied, reboot your system:
     
     ```sh
