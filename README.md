@@ -48,5 +48,3 @@ Follow these steps to install the configuration from the CLI version of NixOS. T
    ```bash
    sudo nixos-rebuild switch
    ```
-
-This will replace the old configuration with your new one from GitHub. If you run into any issues or need further assistance, just let me know!
