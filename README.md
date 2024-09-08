@@ -7,6 +7,8 @@ Welcome to the NixOS Configuration repository! This repository contains my perso
 - **Automated Setup**: Simplifies the process of configuring your NixOS system.
 - **Customizable**: Easily modify the configuration to suit your needs.
 - **Reliable**: Ensures a stable and consistent environment.
+- **UEFI**: Offers support for UEFI only.
+- **NVIDIA**: Includes the open-source Nvidia Drivers.
 
 ## Installation
 
