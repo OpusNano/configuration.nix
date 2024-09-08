@@ -1,3 +1,13 @@
+
+      ::::    ::: ::::::::::: :::    :::  ::::::::   :::::::: 
+     :+:+:   :+:     :+:     :+:    :+: :+:    :+: :+:    :+: 
+    :+:+:+  +:+     +:+      +:+  +:+  +:+    +:+ +:+         
+   +#+ +:+ +#+     +#+       +#++:+   +#+    +:+ +#++:++#++   
+  +#+  +#+#+#     +#+      +#+  +#+  +#+    +#+        +#+    
+ #+#   #+#+#     #+#     #+#    #+# #+#    #+# #+#    #+#     
+###    #### ########### ###    ###  ########   ########       
+
+
 # NixOS Configuration
 
 Welcome to the NixOS Configuration repository! This repository contains my personal configuration file for setting up and managing my NixOS system.
