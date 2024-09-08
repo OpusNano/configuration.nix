@@ -1,6 +1,6 @@
 # NixOS Configuration
 
-Welcome to the NixOS Configuration repository! This repository contains a configuration file for setting up and managing your NixOS system.
+Welcome to the NixOS Configuration repository! This repository contains my personal configuration file for setting up and managing my NixOS system.
 
 ## Features
 
